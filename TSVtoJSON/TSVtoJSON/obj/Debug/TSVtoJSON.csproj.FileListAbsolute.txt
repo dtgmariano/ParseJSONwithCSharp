@@ -1,0 +1,8 @@
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\bin\Debug\TSVtoJSON.exe.config
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\bin\Debug\TSVtoJSON.exe
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\bin\Debug\TSVtoJSON.pdb
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\bin\Debug\Newtonsoft.Json.dll
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\bin\Debug\Newtonsoft.Json.xml
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\obj\Debug\TSVtoJSON.csprojResolveAssemblyReference.cache
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\obj\Debug\TSVtoJSON.exe
+C:\myGitProjects\doChangeDataAnalysis\ourWorkspace\dev_Daniel\ParseJSON\TSVtoJSON\TSVtoJSON\obj\Debug\TSVtoJSON.pdb
