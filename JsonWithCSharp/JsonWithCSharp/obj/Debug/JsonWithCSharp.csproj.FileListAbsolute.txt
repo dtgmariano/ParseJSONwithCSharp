@@ -1,0 +1,8 @@
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\bin\Debug\JsonWithCSharp.exe.config
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\bin\Debug\JsonWithCSharp.exe
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\bin\Debug\JsonWithCSharp.pdb
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\obj\Debug\JsonWithCSharp.csprojResolveAssemblyReference.cache
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\obj\Debug\JsonWithCSharp.exe
+C:\myGitProjects\ParseJSONwithCSharp\JsonWithCSharp\JsonWithCSharp\obj\Debug\JsonWithCSharp.pdb
